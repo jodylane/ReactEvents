@@ -1,0 +1,28 @@
+.on{
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+
+}
+.on:hover{
+    color: #fff;
+    background-color: #449d44;
+    border-color: #398439;
+}
+.off{
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+
+}
+.off:hover{
+    color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+.btn{
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor:pointer;
+    border: 1px solid transparent;
+}
